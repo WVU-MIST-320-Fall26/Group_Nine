@@ -20,7 +20,7 @@ text here
 * milestone2
 
 <u>**Team Roles/Governance**</u> (QA lead,  Lead Business Analyst, Scrum Master, Systems Architect)
-* *Matthew Saville* - Project Manager
+* *Matthew Saville* - Project Manager: RESPONSIBILITIES HERE.
 * *Kenleigh Nutter* - 
 * *Noah Short* -
 * *Sabrina Bendel* -
