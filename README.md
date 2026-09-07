@@ -1,7 +1,7 @@
 # Group_Nine
 
 
-<u>**Project Overview**</u>
+**Project Overview**
 Industry: Entertainment & Digital Media
 Business Pain Point: Mountain Mama Media produces thousands of video, audio, and
 graphic assets annually across multiple internal production teams and freelance
@@ -14,16 +14,16 @@ robust search and version control, granular role-based access permissions, and a
 automated digital rights tracking engine that flags assets approaching expiration or
 licensing limits.
 
-<u>**Main Objectives**</u>
+**Main Objectives**
 * obj1
 * obj2
 * obj3
 
-<u>**Scope**</u>
+**Scope**
 * scope1
 * scope2
 
-<u>**Budget & Milestone Schedule**</u>
+**Budget & Milestone Schedule**
 * budget
 * milesone1
 * milestone2
