@@ -30,10 +30,10 @@ licensing limits.
 
 <u>**Team Roles/Governance**</u> (QA lead,  Lead Business Analyst, Scrum Master, Systems Architect)
 1. *Matthew Saville* - Project Manager
-....* Responsibilities here
+    * Responsibilities here
 1. *Kenleigh Nutter* - QA Lead
-....* Responsibilities here
+    * Responsibilities here
 1. *Noah Short* -
-....* Responsibilities here
+    * Responsibilities here
 1. *Sabrina Bendel* - Systems Architect
-....* Responsibilities here
+    * Responsibilities here
