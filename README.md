@@ -29,7 +29,11 @@ licensing limits.
 * milestone2
 
 <u>**Team Roles/Governance**</u> (QA lead,  Lead Business Analyst, Scrum Master, Systems Architect)
-* *Matthew Saville* - Project Manager: RESPONSIBILITIES HERE.
-* *Kenleigh Nutter* - 
-* *Noah Short* -
-* *Sabrina Bendel* -
+1. *Matthew Saville* - Project Manager
+....* Responsibilities here
+1. *Kenleigh Nutter* - QA Lead
+....* Responsibilities here
+1. *Noah Short* -
+....* Responsibilities here
+1. *Sabrina Bendel* - Systems Architect
+....* Responsibilities here
