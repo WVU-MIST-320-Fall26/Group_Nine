@@ -1,6 +1,4 @@
 # Group_Nine
-
-
 **Project Overview**
 Industry: Entertainment & Digital Media
 Business Pain Point: Mountain Mama Media produces thousands of video, audio, and
@@ -30,10 +28,14 @@ licensing limits.
 
 <u>**Team Roles/Governance**</u> (QA lead,  Lead Business Analyst, Scrum Master, Systems Architect)
 1. *Matthew Saville* - Project Manager
-    * Responsibilities here
+    * Define goals, schedules, roadmaps, and scope.
+    * Manages day-to-day tasks
+    * Team coordination and  
 1. *Kenleigh Nutter* - QA Lead
     * Responsibilities here
 1. *Noah Short* -
     * Responsibilities here
 1. *Sabrina Bendel* - Systems Architect
-    * Responsibilities here
+    * Design system architecture
+    * Ensure security and scalability compliance
+    * Guide technical implementation
