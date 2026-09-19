@@ -39,14 +39,13 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
     * Communicate with stakeholders
     * Help team work efficiently by removing roadblocks
     * Coach and protect the team, bridge gaps in communication
-    * 
 * ***Kenleigh Nutter*** - QA Lead
     * Oversee testing process and product releases
     * Ensure deliverables meet user needs
-    * 
+    * Environment and tool management
 * ***Noah Short*** - Lead Business Analyst
     * Gather and clarify project requirements from stakeholders
-    * 
+    * Use data to identify trends and build forecasts
 * ***Sabrina Bendel*** - Systems Architect
     * Design system architecture
     * Ensure security and scalability compliance
