@@ -1,7 +1,7 @@
 # Group_Nine
 ## <ins>**Project Overview**</ins>
 Industry: Entertainment & Digital Media<br/>
-Mountain Mama Media produces thousands of video, audio, and graphic assets annually across multiple internal production teams and freelance
+Mountain Mama Media(MMM) produces thousands of video, audio, and graphic assets annually across multiple internal production teams and freelance
 contractors. Assets are stored across fragmented cloud drives with poor metadata naming conventions, leading to lost files, duplicate production efforts, and accidental copyright infringement from using unlicensed media assets past their distribution windows. </br>
 
 **Pain Points:**
@@ -52,6 +52,6 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
     * Guide technical implementation
 
 ## <ins>**Stakeholders**</ins>
-*
-*
-*
+* MMM management
+* Copyright holders
+* MMM customers
