@@ -29,8 +29,7 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
     * Automated compliance tracking for licensing and terms
 * Exclusions:
     * No broadcast integrations
-    * No software integrations, unless further specified
-    * Z
+    * No editing software integrations, unless further specified
 
 **Budget**
 * $75,000
@@ -65,3 +64,4 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
 * MMM management
 * Copyright holders
 * MMM customers
+* Freelance contractors
