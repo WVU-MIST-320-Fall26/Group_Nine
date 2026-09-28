@@ -16,20 +16,30 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
     * Ensure data has confidentiality, integrity, and availability within the centralized environment
     * Allow for AI-powered sorting of files and metadata
 * Implement a rights engine to:
-    * Automatically track digital rights and liscenses to ensure they are complied with and remain up-to-date
+    * Automatically track digital rights and licenses to ensure they are complied with and remain up-to-date
     
 ## <ins>**Scope & Budget**</ins>
 **Scope**
 * Digital Asset Management Engine
     * Centralized data storage
-    * Data tagging and organization, AI-powered metadata
+    * AI-powered tagging and metadata for organization
     * Version control and governance for sensitive data
+    * Role-based permissions, upload portals for freelance contractors, rights tracking.
 * Rights Engine
     * Automated compliance tracking for licensing and terms
-  
+* Exclusions:
+    * No broadcast integrations
+    * No software integrations, unless further specified
+    * Z
+
 **Budget**
-* BUDGET INFORMATION HERE
-* Milestone
+* $75,000
+* 
+
+**Milestones**
+* Milestone 1
+* Milestone 2
+* Milestone 3
   
 ## <ins>**Team Roles/Governance**</ins>
 * ***Matthew Saville*** - Project Manager, Scrum Master
