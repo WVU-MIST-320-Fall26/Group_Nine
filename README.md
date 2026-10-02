@@ -33,12 +33,14 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
 
 **Budget**
 * $75,000
-* 
 
 **Milestones**
-* Milestone 1
-* Milestone 2
-* Milestone 3
+* Project Approved
+* Data Migration Completed
+* AI workflows tested and approved
+* Identity Management System Tested and Implemented
+* User Testing Sign-Off
+* Go Live
   
 ## <ins>**Team Roles/Governance**</ins>
 * ***Matthew Saville*** - Project Manager, Scrum Master
