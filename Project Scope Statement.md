@@ -11,7 +11,7 @@
  * Need
 
 ### Project Objectives
-* MAM
+* DAM
 * Policy tracking engine
 
 ### In-Scope Deliverables
