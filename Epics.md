@@ -8,11 +8,11 @@
 
       </br>
 **EPIC:**: Software Setup and Data Migration
-   * **Objective:** To set up the MAM so team members can access the system, and to secure a connection between the MAM and the database to ensure data is safely transported to the MAM.
-      * Install MAM software
+   * **Objective:** To set up the DAM so team members can access the system, and to secure a connection between the DAM and the database to ensure data is safely transported to the DAM.
+      * Install DAM software
       * Configure networks and databade connection
       * Configure Identity management and security settings among team members
-      * Transfer data and media into MAM
+      * Transfer data and media into DAM
        
       </br>
 **EPIC:** Data Organization and Automated AI Tagging
