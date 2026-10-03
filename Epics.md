@@ -38,7 +38,7 @@
        
       </br>
 **EPIC:** Product Delivery
-   * **Objective:** Ensure a successful produce delivery and assist staff in adjusting to software use. Seamless change over to new MAM software.
+   * **Objective:** Ensure a successful produce delivery and assist staff in adjusting to software use. Seamless change over to new DAM software.
       * Train users on software use
       * Develope dashboards to track metrics (user utilization, efficiency, uptime, etc)
       * Transfer ownership to native IT team
