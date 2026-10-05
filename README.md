@@ -36,9 +36,10 @@ contractors. Assets are stored across fragmented cloud drives with poor metadata
 
 **Milestones**
 * Project Approved
-* Data Migration Completed
-* AI workflows tested and approved
+* Product License purchased
 * Identity Management System Tested and Implemented
+* AI workflows tested and approved
+* Data Migration Completed
 * User Testing Sign-Off
 * Go Live
   
