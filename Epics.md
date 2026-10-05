@@ -1,13 +1,13 @@
 # MMM Media Asset Management System Project EPICs
 
-**EPIC:** Planning and user need exploration
+**EPIC:** Planning and Requirements
    * **Objective:** Allocate resources and responsibilities between team members, establish user pain points. As a result, develop project charter, project scope, and RACI matrix to continue onwards with the project with confidence. 
       * Responsibility and ownership allocation
       * Define project scope
       * Interview stakeholders to identify specific pain points
 
       </br>
-**EPIC:**: Software Setup and Data Migration
+**EPIC:**: Software Setup
    * **Objective:** To set up the DAM so team members can access the system, and to secure a connection between the DAM and the database to ensure data is safely transported to the DAM.
       * Install DAM software
       * Configure networks and databade connection
@@ -15,12 +15,19 @@
       * Transfer data and media into DAM
        
       </br>
-**EPIC:** Data Organization and Automated AI Tagging
+**EPIC:** Access and Permission Management
+   *  **Objective:** Configure identity management system to ensure data/media is accessible only to those who are allowed access.
+      *  Single sign on
+      *  Role-based access controls
+      * Testing
+       
+      </br>
+**EPIC:** Data Migration, Organization, and Automated AI Tagging
    * **Objective:** Set up automated AI tagging and metadata filtering to organize data and identify duplicates. Additionally, allow users to sort and search through media/data themselves.
       * Implementing metadata fields, tags, and vocabularies
-      * Itegrating AI services to allpw automation of organization and tagging
+      * Itegrating AI services to allow automation of organization and tagging
       * Configure search engine
-      * Testing
+      * Test accuracy of tagging, accuracy of search engine
        
       </br>
 **EPIC:** Rights and Policy Tracking
@@ -29,13 +36,6 @@
       * Ensure that users are notified of possible breaches of policy conditions.
       * Testing
         
-      </br>
-**EPIC:** Access and Permission Management
-   *  **Objective:** Configure identity management system to ensure data/media is accessible only to those who are allowed access.
-      *  Single sign on
-      *  Role-based access controls
-      * Testing
-       
       </br>
 **EPIC:** Product Delivery
    * **Objective:** Ensure a successful produce delivery and assist staff in adjusting to software use. Seamless change over to new DAM software.
