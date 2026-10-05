@@ -1,9 +1,9 @@
-**Client:** Mountain Mama Media
-**Industry:** Entertainment and Digital Media
-**Project Manager:** Matthew Saville
-**Budget:** $75,000
-**Date:** 02 October 2026
-**Status:** Waiting Approval
+**Client:** Mountain Mama Media   
+**Industry:** Entertainment and Digital Media   
+**Project Manager:** Matthew Saville   
+**Budget:** $75,000   
+**Date:** 02 October 2026   
+**Status:** Waiting Approval   
 
 ### Problem Statement
 Mountain Mama Media(MMM) produces thousands of video, audio, and graphic assets annually across multiple internal production teams and freelance contractors. Assets are stored across fragmented cloud drives with poor metadata naming conventions, leading to lost files, duplicate production efforts, and accidental copyright infringement from using unlicensed media assets past their distribution windows.
