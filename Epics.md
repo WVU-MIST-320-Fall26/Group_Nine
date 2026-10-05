@@ -10,7 +10,7 @@
 ## EPIC: Platform Selection and Software Setup
    * **Objective:** To set up the DAM so team members can access the system, begin basic configuration
       * Make final decision for vendor
-      * Purchase vendor liscenses
+      * Purchase vendor licenses
       * Configure DAM software
       * Configure networks and cloud storage connection
       * Test system access, storage connection
@@ -18,7 +18,7 @@
       </br>
 ## EPIC: Access and Permission Management
    *  **Objective:** Configure identity management system to ensure data/media is accessible only to those who are allowed access.
-      *  Single sign on
+      *  Single sign-on
       *  Role-based access controls
       *  Configure freelancer portals
       *  Test SSO, ID access, security
@@ -28,7 +28,7 @@
    * **Objective:** Set up automated AI tagging and metadata filtering to organize data and identify duplicates. Additionally, allow users to sort and search through media/data themselves.
       * Implementing metadata fields, tags, and vocabularies
       * Duplicate detection
-      * Itegrating AI services to allow automation of organization and tagging
+      * Integrating AI services to allow automation of organization and tagging
       * Configure search engine
       * Migrate assets from cloud drives, tag and label upon ingestion
       * Version control
@@ -44,7 +44,7 @@
         
       </br>
 ## EPIC: Product Delivery
-   * **Objective:** Ensure a successful produce delivery and assist staff in adjusting to software use. Seamless change over to new DAM software.
+   * **Objective:** Ensure a successful product delivery and assist staff in adjusting to software use. Seamless change over to new DAM software.
       * Develop dashboards to track metrics (user utilization, efficiency, uptime, etc)
       * User acceptance testing, sign-off
       * Train users on software use
