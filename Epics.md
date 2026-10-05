@@ -27,6 +27,7 @@
 ## EPIC: Data Migration/Organization/AI Tagging
    * **Objective:** Set up automated AI tagging and metadata filtering to organize data and identify duplicates. Additionally, allow users to sort and search through media/data themselves.
       * Implementing metadata fields, tags, and vocabularies
+      * Duplicate detection
       * Itegrating AI services to allow automation of organization and tagging
       * Configure search engine
       * Migrate assets from cloud drives, tag and label upon ingestion
@@ -44,9 +45,10 @@
       </br>
 ## EPIC: Product Delivery
    * **Objective:** Ensure a successful produce delivery and assist staff in adjusting to software use. Seamless change over to new DAM software.
-      * Go live
+      * Develop dashboards to track metrics (user utilization, efficiency, uptime, etc)
+      * User acceptance testing, sign-off
       * Train users on software use
-      * Develope dashboards to track metrics (user utilization, efficiency, uptime, etc)
-      * Transfer ownership to native IT team
+      * Go live
       * Follow up with users, ensure all needs are met
+      * Transfer ownership to native IT team
       * Retire legacy cloud drives
