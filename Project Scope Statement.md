@@ -47,12 +47,16 @@ Implement an enterprise Digital Asset Management (DAM) & Rights Engine. The soft
 
 ### Milestones
  * Project Approved
- * Product License purchased
+ * Product License Purchased
+ * DAM Operational
  * Identity Management System Tested and Implemented
- * AI workflows tested and approved
+ * Metadata Schema Approved
  * Data Migration Completed
+ * AI workflows tested and approved
+ * Rights engine tested and approved
  * User Testing Sign-Off
  * Go Live
+ * Project Close
 
 ### Constraints
 * $75,000 budget
