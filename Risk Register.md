@@ -1,8 +1,8 @@
 # Risk Register
-Project Name: Mountain Mama Media DAM 
-Project Manager: Matthew Saville
-Date Created: 10/29/2026
-Last Updated: 10/29/2026
+Project Name: Mountain Mama Media DAM  
+Project Manager: Matthew Saville   
+Date Created: 10/29/2026   
+Last Updated: 10/29/2026   
 
 ## Risk Scoring Guide
 | Probability | Impact | How to Score |
