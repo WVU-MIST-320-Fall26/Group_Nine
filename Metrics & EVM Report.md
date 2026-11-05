@@ -1,12 +1,15 @@
 <img width="1383" height="687" alt="image" src="https://github.com/user-attachments/assets/91419a4b-6b92-4c6e-a35a-c1d8d011c514" />
 
-
+<div align="center">
+  
 | Sprint | Total Points | Done | Not Done | Completion |
 |------------|------------|-------------|----------|---------|
 | **Sprint 1** | 46 | 46 | 0 | 100% |
 | **Sprint 2** | 61 | 61 | 0 | 100% |
 | **Sprint 3** | 32 | 1 | 31 | 3% |
 | **Total** | 139 | 108 | 31 | 78% |
+
+</div>
 
 **Sprint 2 Metrics:**
 Planned Value (PV):
