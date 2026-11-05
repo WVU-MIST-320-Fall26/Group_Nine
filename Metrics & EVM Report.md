@@ -11,17 +11,17 @@
 
 </div>
 
-**Sprint 2 Metrics:**
-Planned Value (PV): 
-Earned Value (EV):
-Actual Cost (AC):
-Schedule Performance Index (SPI):
-Cost Performance Index (CPI):
-
-Ahead/behind schedule? Over/under budget?
-*** BUDGET CAN BE FOUND IN PROJECT SCOPE STATEMENT!!
-
-**Sprint 3 Forecasting:**
-EAC Estimate at Completion (EAC):
-Estimate to Complete (ETC):
+**Sprint 2 Metrics:**  
+  * Planned Value (PV):   
+  * Earned Value (EV):  
+  * Actual Cost (AC):  
+  * Schedule Performance Index (SPI):  
+  * Cost Performance Index (CPI):  
+  
+Determine if we are ahead/behind schedule? Over/under budget?  
+*** BUDGET CAN BE FOUND IN PROJECT SCOPE STATEMENT!!  
+  
+**Sprint 3 Forecasting:**  
+  * EAC Estimate at Completion (EAC):  
+  * Estimate to Complete (ETC):  
 
