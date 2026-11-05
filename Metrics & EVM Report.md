@@ -5,14 +5,14 @@
 | Sprint | Total Points | Done | Not Done | Completion |
 |------------|------------|-------------|----------|---------|
 | **Sprint 1** | 46 | 46 | 0 | 100% |
-| **Sprint 2** | 61 | 61 | 0 | 100% |
-| **Sprint 3** | 32 | 1 | 31 | 3% |
+| **Sprint 2** | 62 | 62 | 0 | 100% |
+| **Sprint 3** | 31 | 0 | 31 | 0% |
 | **Total** | 139 | 108 | 31 | 78% |
 
 </div>
 
 **Sprint 2 Metrics:**
-Planned Value (PV):
+Planned Value (PV): 
 Earned Value (EV):
 Actual Cost (AC):
 Schedule Performance Index (SPI):
