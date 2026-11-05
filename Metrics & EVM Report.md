@@ -1,6 +1,6 @@
-Velocity & Burn-Up Performance Analysis:
+Velocity & Burn-Up Performance Analysis:  
 Evaluate sprint velocity trends across Sprints 1 and 2 and include an image of your burn-up chart from GitHub Projects Insights.
-Earned Value Management (EVM) Calculations:
+Earned Value Management (EVM) Calculations:  
 Compute baseline EVM metrics through the conclusion of Sprint 2 based on estimated vs. actual story points. 
 Keep in mind that our projects are 3 sprints in length, so you should assume that 2/3 of all story points and 
 overall budget would be your planned value and actual cost, respectively. Be sure to include Planned Value (PV), 
