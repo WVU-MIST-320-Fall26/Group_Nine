@@ -19,38 +19,43 @@ The DAM platform, identity and access controls, and metadata features are comple
 |---|---|---|
 | Schedule Performance Index (SPI) | 1.17 | Ahead of schedule |
 | Cost Performance Index (CPI) | 1.17 | Under budget |
-| Estimate at Completion (EAC) | 119.3 of 139 pts | Forecast ~14% under budget |
+| Estimate at Completion (EAC) | 119.3 of 139 pts | Forecast 14% under budget |
 | Velocity | 46 → 62 pts (+35%) | Team output increasing |
 
 ### Accomplishments/ Milestones
-  * DAM configured
-  * SSO and role-based access live
-  * AI data and metadata tagging implemented
-
-COMPLETED MILESTONES:
-  * Project Approved
-  * Product License Purchased
-  * DAM Operational
-  * Identity Management System Tested and Approved
+  * DAM configured 
+  * SSO and role-based access configured and tested
+  * AI metadata tagging implemented
   * Rights expiration tracking set up
-  * Metadata Schema Tested and Approved
+  * Freelancer portals configured
+  * Version control implemented
+  * Search engine configured
+  * Duplicate detection added
+
+#### COMPLETED MILESTONES:
+  * Project Approved (Oct 16)
+  * Product License Purchased (Oct 20)
+  * DAM Operational (Oct 26)
+  * Identity Management System Tested and Approved (Oct 29)
+  * Metadata Schema Tested and Approved (Nov 02)
+  * AI Workflows Tested and Approved (Nov 06)
     
-UPCOMING MILESTONES:
-  * Rights Engine Tested and Approved
-  * Data Migration Completed
-  * User Testing Sign-Off
-  * Go Live
-  * Project Closed
+##### UPCOMING MILESTONES:
+  * Data Migration Completed (Nov 12)
+  * Rights Engine Tested and Approved (Nov 15)
+  * User Testing Sign-Off (Nov 17)
+  * Go Live (Nov 19)
+  * Project Closed (Nov 22)
 
 ### Scope Changes
-CR-009: requested, CCB deferred, re-evaluate after go-live
+CR-009, automated video transcoding and watermarking, was deferred by the CCB to protect the Sprint 3 schedule. It will be re-evaluated after go-live.
 
 ### Risks
   * Assets are lost or corrupted during migration from legacy cloud drives - Back up all source drives before migration; migrate in batches.
-  * SSO integration fails or misconfigured role-based access exposes restricted or licensed content - Test SSO in secure environment first; keep a backup admin account; test every role against an access matrix
+  * Rights expiration tracking misses dates, leading to use of content with expired license - Test date tracking; send alerts ahead of expiration; flag assets with missing rights dates
   * Freelancer portals give outside users access to content beyond their contracts - Limit freelancers to project-specific folders; set accounts to expire with the contract; review freelancer access monthly
 
-### Decisions/Supprot Needed
+### Decisions/Support Needed
 None at this time.
 
 ### Next Period
