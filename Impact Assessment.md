@@ -1,7 +1,7 @@
 # Impact Summary
-**Project:** Mountain Mama Media DAM and Rights Engine
-**Requested By:** Director of Post-Production & Content Syndication
-**Submitted To:** Change Control Board (CCB)
+**Project:** Mountain Mama Media DAM and Rights Engine   
+**Requested By:** Director of Post-Production & Content Syndication   
+**Submitted To:** Change Control Board (CCB)   
 
 # Requested Changes
 * Addition of automated video formatting into 6 format options upon ingestion
