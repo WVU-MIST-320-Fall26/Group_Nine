@@ -7,9 +7,9 @@ Project Manager: Matthew Saville
 ### Overall Status: 🟢 GREEN
 | Area | Status | Notes |
 |---|---|---|
-| Scope | 🟢 Green | One change request (CR-009) deferred; approved scope unchanged |
+| Scope | 🟢 Green | One change request (CR-009) deferred. Approved scope unchanged |
 | Schedule | 🟢 Green | Ahead of schedule (SPI 1.17). Sprints 1–2 100% complete |
-| Budget | 🟢 Green | Under budget (CPI 1.17). Forecast to finish at 86% of budget |
+| Budget | 🟢 Green | Under budget (CPI 1.17). Forecasted to finish at 86% of budget |
 
 ### Executive Summary
 The DAM platform, identity and access controls, and metadata features are complete. The project is ahead of schedule and under budget, with 78% of all work finished. Sprint 3 will complete data migration, user acceptance testing, and go-live.
