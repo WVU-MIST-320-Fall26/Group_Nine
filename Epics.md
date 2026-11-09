@@ -1,4 +1,4 @@
-# MMM Media Asset Management System Project EPICs
+# Mountain Mama Media DAM and Rights Engine Project EPICs
 
 ## EPIC: Planning and Requirements
    * **Objective:** Allocate resources and responsibilities between team members, establish user pain points. As a result, develop project charter, project scope, and RACI matrix to continue onwards with the project with confidence.
