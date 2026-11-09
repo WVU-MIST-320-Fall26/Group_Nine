@@ -10,6 +10,14 @@
 | **Total** | 139 | 108 | 31 | 78% |
 
 </div>
+Velocity Analysis
+
+Our team showed strong improvement between Sprint 1 and Sprint 2. During Sprint 1, we completed 46 story points, while Sprint 2 increased to 62 story points. This represents a 34.8% increase in sprint velocity. Both sprints had a 100% completion rate, showing that our team successfully completed all the work assigned to each sprint. Overall, we have completed 108 out of 139 total story points, which is approximately 78% of the project. This improvement shows that our team has been making good progress and is in a strong position heading into Sprint 3.
+
+Burn-Up Chart Analysis
+
+The burn-up chart shows how our project has progressed over time. The chart indicates that completed work increased throughout the project, although progress was not always consistent. There was also a significant increase in the number of tracked issues during October, which suggests that additional work was added or entered into the project during that period. Despite these changes, our team successfully completed all planned story points for the first two sprints. With 31 story points remaining for Sprint 3, our main focus will be maintaining our productivity and making sure the remaining tasks are completed on schedule.
+
 
 **Sprint 2 Metrics:**  
   * Planned Value (PV): 50,000  
