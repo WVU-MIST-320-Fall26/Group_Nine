@@ -12,16 +12,16 @@
 </div>
 
 **Sprint 2 Metrics:**  
-  * Planned Value (PV):   
-  * Earned Value (EV):  
-  * Actual Cost (AC):  
-  * Schedule Performance Index (SPI):  
-  * Cost Performance Index (CPI):  
+  * Planned Value (PV): 50,000  
+  * Earned Value (EV): 58,273.38 
+  * Actual Cost (AC): 50,000 
+  * Schedule Performance Index (SPI): 1.17 
+  * Cost Performance Index (CPI): 1.17 
   
-Determine if we are ahead/behind schedule? Over/under budget?  
-*** BUDGET CAN BE FOUND IN PROJECT SCOPE STATEMENT!!  
+Since SV = 8,273.38 and SPI > 1.0, we are ahead of schedule.
+Also since CV = 8,273.38 and CPI > 1.0, so we are under budget/cost efficient.     
   
 **Sprint 3 Forecasting:**  
-  * EAC Estimate at Completion (EAC):  
-  * Estimate to Complete (ETC):  
+  * EAC Estimate at Completion (EAC): 64,102.56 
+  * Estimate to Complete (ETC): 5,829.26 
 
