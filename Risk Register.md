@@ -1,5 +1,5 @@
 # Risk Register
-Project Name: Mountain Mama Media DAM  
+Project Name: Mountain Mama Media DAM and Rights Engine  
 Project Manager: Matthew Saville   
 Date Created: 10/29/2026   
 Last Updated: 10/29/2026   
