@@ -8,7 +8,7 @@ Project Manager: Matthew Saville
 | Area | Status | Notes |
 |---|---|---|
 | Scope | 🟩 Green | One change request (CR-009) deferred. Approved scope unchanged |
-| Schedule | 🟩 Green | Ahead of schedule (SPI 1.17). Sprints 1–2 100% complete |
+| Schedule | 🟩 Green | Ahead of schedule (SPI 1.17). Sprints 1 & 2 100% complete |
 | Budget | 🟩 Green | Under budget (CPI 1.17). Estimated to finish at 86% of budget |
 
 ### Executive Summary
@@ -19,7 +19,7 @@ The DAM platform, identity and access controls, and metadata features are comple
 |---|---|---|
 | Schedule Performance Index (SPI) | 1.17 | Ahead of schedule |
 | Cost Performance Index (CPI) | 1.17 | Under budget |
-| Estimate at Completion (EAC) | $64,352 of $75,000 | Forecast 14% under budget |
+| Estimate at Completion (EAC) | $64,102 | Estimated to be under budget |
 | Velocity | 46 -> 62 pts | Team output increasing |
 
 ### Accomplishments/ Milestones
