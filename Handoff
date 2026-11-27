@@ -1,2 +1,19 @@
-# TITLE
-handoff info here
+# Handoff Documentation — MMM DAM & Rights Engine
+
+## Project Summary
+Implemented an enterprise Digital Asset Management (DAM) & Rights Engine. The software provides centralized media ingestion with automated AI tagging, robust search and version control, granular role-based access permissions, and an automated digital rights tracking engine that flags assets approaching expiration or licensing limits.
+
+## Deliverables Index
+- **Project Charter:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/README.md
+- **Epics:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Epics.md
+- **Impact Assessment:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Impact%20Assessment.md
+- **Metrics & EVM Report:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Metrics%20%26%20EVM%20Report.md
+- **Executive Status Report:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Executive%20Status%20Report.md
+- **RACI Matrix:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/RACI.md
+- **Risk Register:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Risk%20Register.md
+- **Lessons Learned:** https://github.com/WVU-MIST-320-Fall26/Group_Nine/blob/main/Lessons%20Learned
+
+## Open Items & Deferred Work
+| Issue | Reason deferred | Recommended next step |
+|---|---|---|
+| #44 | Completeing requested actions would jeopardize the completion of the rest of the project | After go-live, re-evaluate whether or not to execute |
